@@ -27,9 +27,6 @@ collections:
   material_1:
     output: true
     permalink: /:title/
-  material_2:
-    output: true
-    permalink: /:title/
 
 defaults:
   -
