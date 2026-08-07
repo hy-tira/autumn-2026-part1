@@ -8,7 +8,7 @@ The course can be completed by solving automatically checked exercises online an
 
 The course format is the same for degree students of the University of Helsinki and for Open University students.
 
-To take the exam and receive official course credits, you need to register to the [course](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-f21366b3-31fc-485d-b932-21b8ca3c8dbe/BSCS10031) at latest in early August.  
+To take the exam and receive official course credits, you need to register to the [course](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-f21366b3-31fc-485d-b932-21b8ca3c8dbe/BSCS10031) <b>during August</b>.  
 
 ## Material and Lectures
 
