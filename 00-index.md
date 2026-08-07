@@ -36,7 +36,7 @@ Exam consists of multiple-choice questions (10 points) and a written assignment 
 * 8 points: Grade 4
 * 9-12 points: Grade 5
 
-Course total grade has 55% weight on the exercises and 45% weight on the exam, but you need at least grade 1 from each component to pass the course.
+Course total grade has 45% weight on the exercises and 55% weight on the exam, but you need at least grade 1 from each component to pass the course.
 
 The deadline for exercises is Sunday, October 25 at 23:59. The exercise problems will be published at the start of the course.
 
