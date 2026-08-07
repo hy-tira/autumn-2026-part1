@@ -11,4 +11,4 @@ To return your solutions, you need a mooc.fi account. If you do not have one yet
 
 The solutions are returned to the CSES system and are checked automatically.
 
-* [Link to exercises](https://cses.fi/dsa26autumn-p1/list/)
+* [Link to exercises](https://cses.fi/dsa1autumn26/list/)
