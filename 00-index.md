@@ -40,7 +40,7 @@ Exam consists of multiple-choice questions (10 points) and a written assignment 
 * 8 points: Grade 4
 * 9-12 points: Grade 5
 
-Check the [official course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-f21366b3-31fc-485d-b932-21b8ca3c8dbe/BSCS10031) for instructions on the exam.
+Check the [course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-f21366b3-31fc-485d-b932-21b8ca3c8dbe/BSCS10031) for instructions on the exam.
 
 ## Grading
 
